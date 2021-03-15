@@ -7,5 +7,12 @@ To Do:
 - [ ] Find a way to load unsigned ipsws
 - [ ] Use in terminal emulator
 
+### Dependencies
+
+`sudo apt install zip unzip`
+
+ or:
+`bash install-dep.sh`
+
 ### Building
-run make
+`make`
