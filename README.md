@@ -6,3 +6,6 @@ To Do:
 - [ ] add unsigned ipsw
 - [ ] Find a way to load unsigned ipsws
 - [ ] Use in terminal emulator
+
+### Building
+run make
